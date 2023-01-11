@@ -43,7 +43,6 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (9.0.0)
-    awesome_print (1.9.2)
     bootsnap (1.13.0)
       msgpack (~> 1.2)
     builder (3.2.4)
@@ -157,7 +156,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  awesome_print (~> 1.9)
   bootsnap (>= 1.1.0)
   byebug
   faker
